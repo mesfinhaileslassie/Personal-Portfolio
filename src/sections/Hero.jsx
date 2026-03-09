@@ -133,14 +133,6 @@ const Hero = () => {
                 </div>
               </div>
             </div>
-
-            {/* Floating Elements */}
-            {/* <div className="absolute -top-4 -right-4 bg-white dark:bg-gray-800 rounded-full p-3 shadow-lg animate-float">
-              <span className="text-2xl">👨‍💻</span>
-            </div>
-            <div className="absolute -bottom-2 -left-2 bg-white dark:bg-gray-800 rounded-full p-3 shadow-lg animate-float animation-delay-2000">
-              <span className="text-2xl">🚀</span>
-            </div> */}
           </div>
         </div>
       </div>

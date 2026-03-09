@@ -115,10 +115,6 @@ const Skills = () => {
                 <div className="text-3xl font-bold">7+</div>
                 <div className="text-sm text-white/80">Projects Completed</div>
               </div>
-              {/* <div className="text-center">
-                <div className="text-3xl font-bold">10+</div>
-                <div className="text-sm text-white/80">Happy Clients</div>
-              </div> */}
             </div>
           </div>
         </div>
