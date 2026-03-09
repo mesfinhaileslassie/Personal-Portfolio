@@ -41,7 +41,7 @@ const projects = [
     title: "Youtube-Video-Downloader",
     description: "A simple YouTube video downloader that allows users to download videos quickly and easily from YouTube.Built to practice programming concepts and provide a convenient way to save videos for offline viewing. ",
     image: null,
-    technologies: ["React", "Node.js", "OpenAI API", "Express", "MongoDB"],
+    technologies: ["Python"],
     githubLink: "https://github.com/yourusername/ai-content-generator",
     liveLink: null
   },

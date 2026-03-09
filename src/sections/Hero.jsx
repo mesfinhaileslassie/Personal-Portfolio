@@ -121,12 +121,12 @@ const Hero = () => {
                 className="w-full h-full object-cover"
                 onError={(e) => {
                   e.target.onerror = null;
-                  e.target.src = 'https://via.placeholder.com/400x400?text=Mesfin';
+                  e.target.src = 'https://via.placeholder.com/00x400?text=Mesfin';
                 }}
               />
               
               {/* Overlay with status */}
-              <div className="absolute bottom-0 left-0 right-0 bg-linear-to-t from-black/70 to-transparent p-6">
+              <div className="absolute bottom-0 left-16 right-0 bg-linear-to-t from-black/70 to-transparent p-6">
                 <div className="flex items-center gap-2">
                   <div className="w-3 h-3 bg-green-500 rounded-full animate-pulse"></div>
                   <span className="text-white text-sm font-medium">Available for work</span>
@@ -135,12 +135,12 @@ const Hero = () => {
             </div>
 
             {/* Floating Elements */}
-            <div className="absolute -top-4 -right-4 bg-white dark:bg-gray-800 rounded-full p-3 shadow-lg animate-float">
+            {/* <div className="absolute -top-4 -right-4 bg-white dark:bg-gray-800 rounded-full p-3 shadow-lg animate-float">
               <span className="text-2xl">👨‍💻</span>
             </div>
             <div className="absolute -bottom-2 -left-2 bg-white dark:bg-gray-800 rounded-full p-3 shadow-lg animate-float animation-delay-2000">
               <span className="text-2xl">🚀</span>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

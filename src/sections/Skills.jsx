@@ -7,12 +7,10 @@ const Skills = () => {
       icon: <Code2 size={32} className="text-blue-600 dark:text-blue-400" />,
       description: "Building responsive and interactive user interfaces",
       skills: [
-        { name: "React.js", level: 90 },
-        { name: "Next.js", level: 85 },
-        { name: "TypeScript", level: 80 },
-        { name: "Tailwind CSS", level: 95 },
-        { name: "HTML5/CSS3", level: 90 },
-        { name: "JavaScript", level: 95 }
+        { name: "React.js", level: 80 },
+        { name: "Python", level: 90 },
+        { name: "HTML5/CSS3", level: 86 },
+        { name: "JavaScript", level: 85 }
       ]
     },
     {
@@ -23,9 +21,8 @@ const Skills = () => {
         { name: "Node.js", level: 85 },
         { name: "Express.js", level: 85 },
         { name: "Python", level: 80 },
-        { name: "MongoDB", level: 85 },
-        { name: "PostgreSQL", level: 80 },
-        { name: "GraphQL", level: 75 }
+        { name: "MongoDB", level: 80 },
+       { name: "PHP", level: 85 },
       ]
     },
     {
@@ -34,8 +31,6 @@ const Skills = () => {
       description: "Essential tools I use daily for development",
       skills: [
         { name: "Git/GitHub", level: 90 },
-        { name: "Docker", level: 75 },
-        { name: "AWS", level: 70 },
         { name: "VS Code", level: 95 },
         { name: "Postman", level: 85 },
         { name: "Figma", level: 80 }
@@ -117,13 +112,13 @@ const Skills = () => {
                 <div className="text-sm text-white/80">Years Experience</div>
               </div>
               <div className="text-center">
-                <div className="text-3xl font-bold">20+</div>
+                <div className="text-3xl font-bold">7+</div>
                 <div className="text-sm text-white/80">Projects Completed</div>
               </div>
-              <div className="text-center">
+              {/* <div className="text-center">
                 <div className="text-3xl font-bold">10+</div>
                 <div className="text-sm text-white/80">Happy Clients</div>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>

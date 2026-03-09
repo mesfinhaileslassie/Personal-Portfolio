@@ -122,10 +122,10 @@ const About = () => {
                   <p className="text-2xl font-bold text-purple-600 dark:text-purple-400">{personalInfo.projects}</p>
                   <p className="text-xs text-gray-600 dark:text-gray-400">Projects</p>
                 </div>
-                <div className="text-center p-3 bg-gray-50 dark:bg-gray-700 rounded-lg">
+                {/* <div className="text-center p-3 bg-gray-50 dark:bg-gray-700 rounded-lg">
                   <p className="text-2xl font-bold text-green-600 dark:text-green-400">{personalInfo.clients}</p>
                   <p className="text-xs text-gray-600 dark:text-gray-400">Clients</p>
-                </div>
+                </div> */}
               </div>
 
               {/* Availability Status */}
