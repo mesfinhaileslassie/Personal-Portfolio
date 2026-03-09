@@ -52,8 +52,8 @@ const Navbar = () => {
   ];
 
   const socialLinks = [
-    { icon: Github, href: 'https://github.com/yourusername', label: 'GitHub' },
-    { icon: Linkedin, href: 'https://linkedin.com/in/yourusername', label: 'LinkedIn' },
+    { icon: Github, href: 'https://github.com/mesfinhaileslassie', label: 'GitHub' },
+    { icon: Linkedin, href: 'https://www.linkedin.com/in/mesfin-haileslassie-b2105133a/', label: 'LinkedIn' },
     { icon: Mail, href: 'mailto:mesfinhaileslassie17@gmail.com', label: 'Email' },
   ];
 
