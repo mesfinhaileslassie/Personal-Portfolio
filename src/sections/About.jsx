@@ -224,6 +224,8 @@ const About = () => {
               </div>
             </div>
 
+            
+
             {/* Fun Fact */}
             <div  className="bg-linear-to-r from-blue-600 to-purple-600 rounded-xl shadow-lg p-6 text-white">
               <p className="text-lg font-medium mb-2">💡 Fun Fact</p>

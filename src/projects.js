@@ -2,57 +2,57 @@
 const projects = [
   {
     id: 1,
-    title: "E-Commerce Platform",
-    description: "A full-stack e-commerce platform with user authentication, product management, shopping cart, and payment integration using Stripe.",
+    title: "Virtual-classroom",
+    description: "A full-stack Online platform for Online teaching-learning",
     image: null, // Add image path when you have one (e.g., "/projects/ecommerce.jpg")
-    technologies: ["React", "Node.js", "MongoDB", "Tailwind CSS", "Stripe"],
-    githubLink: "https://github.com/yourusername/ecommerce-platform",
-    liveLink: "https://ecommerce-demo.com"
+    technologies: ["React", "Node.js", "MongoDB", "Express.js"],
+    githubLink: "https://github.com/mesfinhaileslassie/virtual-classroom",
+    liveLink:null
   },
   {
     id: 2,
-    title: "Task Management App",
-    description: "A collaborative task management tool with real-time updates, team features, drag-and-drop interface, and project analytics.",
+    title: "Clearance-Management-System",
+    description: "A full stack clearance menagement system  ",
     image: null,
-    technologies: ["Vue.js", "Express", "PostgreSQL", "Socket.io", "Tailwind CSS"],
-    githubLink: "https://github.com/yourusername/task-management",
-    liveLink: "https://taskmanager-demo.com"
+    technologies: ["Java", "XML", "mysql"],
+    githubLink: "https://github.com/mesfinhaileslassie/clearanceManagementSystem",
+    liveLink:null
   },
   {
     id: 3,
-    title: "Weather Dashboard",
-    description: "Real-time weather application with interactive maps, 7-day forecasts, location search, and beautiful data visualizations.",
+    title: "Employee-Management",
+    description: "Mitigate the management of Employees  ",
     image: null,
-    technologies: ["React", "OpenWeather API", "Chart.js", "CSS Modules", "Leaflet"],
-    githubLink: "https://github.com/yourusername/weather-dashboard",
-    liveLink: "https://weather-demo.com"
+    technologies: ["Java", "XML", "mysql"],
+    githubLink: "https://github.com/mesfinhaileslassie/EmployeeManagement2",
+    liveLink: null
   },
   {
     id: 4,
-    title: "Social Media Dashboard",
-    description: "Analytics dashboard for social media managers with real-time metrics, post scheduling, and engagement tracking.",
+    title: "Personal Portfolio",
+    description: "A responsive personal portfolio built with React to showcase my projects, skills, and experience in web development.",
     image: null,
-    technologies: ["Next.js", "TypeScript", "Prisma", "PostgreSQL", "Tailwind CSS"],
-    githubLink: "https://github.com/yourusername/social-dashboard",
-    liveLink: "https://social-demo.com"
+    technologies: ["React.js","Tailwind CSS","JavaScript","Formspree"],
+    githubLink: "https://github.com/mesfinhaileslassie/Personal-Portfolio",
+    liveLink:null
   },
   {
     id: 5,
-    title: "AI Content Generator",
-    description: "Web application that uses AI to generate blog posts, social media captions, and marketing copy with OpenAI API.",
+    title: "Youtube-Video-Downloader",
+    description: "A simple YouTube video downloader that allows users to download videos quickly and easily from YouTube.Built to practice programming concepts and provide a convenient way to save videos for offline viewing. ",
     image: null,
     technologies: ["React", "Node.js", "OpenAI API", "Express", "MongoDB"],
     githubLink: "https://github.com/yourusername/ai-content-generator",
-    liveLink: "https://ai-content-demo.com"
+    liveLink: null
   },
   {
     id: 6,
-    title: "Portfolio Website",
-    description: "A modern portfolio website built with React and Tailwind CSS featuring dark mode, animations, and contact form.",
+    title: "Boutique",
+    description: "A simple website for cloth shipping!",
     image: null,
-    technologies: ["React", "Tailwind CSS", "Framer Motion", "Formspree"],
-    githubLink: "https://github.com/yourusername/portfolio",
-    liveLink: "https://yourportfolio.com"
+    technologies: ["HTMl", "CSS", "Javascript"],
+    githubLink: "https://github.com/mesfinhaileslassie/Boutique",
+    liveLink: null
   }
 ];
 
