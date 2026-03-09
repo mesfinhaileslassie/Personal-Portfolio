@@ -5,7 +5,6 @@ const Hero = () => {
   const name = "Mesfin Haileslassie";
   const roles = ["Full Stack Developer", "React Specialist", "Problem Solver"];
   const description = "I build exceptional digital experiences that make a difference. With expertise in modern web technologies, I turn ideas into reality.";
-
   return (
     <section 
       id="home" 
@@ -72,7 +71,7 @@ const Hero = () => {
           {/* Social Links */}
           <div className="flex items-center justify-center lg:justify-start gap-3 mb-8">
             <a 
-              href="https://github.com/yourusername" 
+              href="https://github.com/mesfinhaileslassie" 
               target="_blank" 
               rel="noopener noreferrer"
               className="p-3 bg-gray-100 dark:bg-gray-800 rounded-full hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors duration-300 hover:scale-110 transform"
@@ -81,7 +80,7 @@ const Hero = () => {
               <Github size={20} className="text-gray-700 dark:text-gray-300" />
             </a>
             <a 
-              href="https://linkedin.com/in/yourusername" 
+              href="https://www.linkedin.com/in/mesfin-haileslassie-b2105133a/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="p-3 bg-gray-100 dark:bg-gray-800 rounded-full hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors duration-300 hover:scale-110 transform"
